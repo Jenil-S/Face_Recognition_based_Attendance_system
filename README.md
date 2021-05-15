@@ -1,2 +1,2 @@
-# Face_Recognition_based_Attendance_system
+# Face Recognition Based Attendance System
 Will add soon
