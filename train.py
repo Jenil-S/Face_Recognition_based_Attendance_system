@@ -243,8 +243,8 @@ def TrackImages():
 
        
 
-        email_user = 'icewizards110@gmail.com'
-        email_password = 'devarshjenil'
+        email_user = 'abc@gmail.com'
+        email_password = 'your_email_password'
         email_send = email_sender
        
         subject = 'Attendance of '+sub
